@@ -4,7 +4,7 @@
 'balb' is for simulation of Bermudan/American Look-Back option using method in [1]. 
 License: GPL-3
 
-You can simply use the binary executables 'balb-linux' or 'balb-mac' depending on your operating system. 
+You can simply use the binary executables 'balb-linux' or 'balb-mac' depending on your operating system. To compile the code you need have GSL installed and use the flags -lgsl -lgslcblas
 
 To view the Help, type:
 
